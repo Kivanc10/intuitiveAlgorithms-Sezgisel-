@@ -7,3 +7,13 @@
 ### Some (scouts) fly and choose the food sources randomly without using experience. If the nectar amount of a new source is higher than that of the previous one in their memory, they memorize the new position and forget the previous one
 
 ### Thus, ABC system combines local search methods, carried out by employed and onlooker bees, with global search methods, managed by onlookers and scouts, attempting to balance exploration and exploitation process.
+
+#### For example conclusion is :
+<br>
+
+X X V X X X
+X X X X X V
+X V X X X X
+X X X X V X
+V X X X X X
+X X X V X X
