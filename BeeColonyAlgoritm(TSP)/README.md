@@ -8,12 +8,3 @@
 
 ### Thus, ABC system combines local search methods, carried out by employed and onlooker bees, with global search methods, managed by onlookers and scouts, attempting to balance exploration and exploitation process.
 
-#### For example conclusion is :
-<br>
-
-X X V X X X
-X X X X X V
-X V X X X X
-X X X X V X
-V X X X X X
-X X X V X X
