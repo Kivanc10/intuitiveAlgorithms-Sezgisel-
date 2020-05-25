@@ -1,4 +1,4 @@
-# Ant colony algorithm
+# Ant Colony Algorithm
 
  ### Ant colony optimization (ACO) methodology is based on the ant’s capability of finding the shortest path from the nest to a food source.
 
