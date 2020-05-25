@@ -8,13 +8,15 @@
 <b>X</b> represented the empty field on chees board
 
 <b>
+ <br>
+ <br>
 <br>
- X  X  X  X  X  V  X  X <br>
- X  X  X  V  X  X  X  X <br>
- X  V  X  X  X  X  X  X <br>
- X  X  X  X  X  X  X  V <br>
- X  X  X  X  V  X  X  X <br>
- X  X  X  X  X  X  V  X <br>
- V  X  X  X  X  X  X  X <br>
- X  X  V  X  X  X  X  X <br>
+ X   X   X   X   X   V   X   X <br>
+ X   X   X   V   X   X   X   X <br>
+ X   V   X   X   X   X   X   X <br>
+ X   X   X   X   X   X   X   V <br>
+ X   X   X   X   V   X   X   X <br>
+ X   X   X   X   X   X   V   X <br>
+ V   X   X   X   X   X   X   X <br>
+ X   X   V   X   X   X   X   X <br>
   </b>
