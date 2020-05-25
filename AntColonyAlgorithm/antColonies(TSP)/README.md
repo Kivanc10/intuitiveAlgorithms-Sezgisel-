@@ -8,11 +8,27 @@ visit all two cities and return to the starting city in a distance 1 or less. We
 decision version of the problem (does a tour of length 1 or less exist?) and not the closely
 related optimization problem (what is the minimal length tour?).
 ## what is the cost
-As in other combinatorial problems, a peak in search cost is associated with the phase
-transition in solubility. With a very large bound on the required tour length, many tours
-satisfy the bound and it is typically easy to find one. With a very small bound, almost
-all tours are too long and many are quickly ruled out, so again problems are typically
-easy. Problems at the phase boundary are often hard, as it is difficult to determine if
-a tour of the required length exists without exhaustive search. 
-
+Traveling Salesman Problem (GSP), nodes
+the cost (distance, time or
+expense) to a minimum
+to move the points only once
+combinatorial optimization aimed at
+Is the problem.
+Vehicle with appropriate modeling of this problem
+creation of routes, across the country
+spread of higher education exams
+control of consumables
+delivery to retailers and unmanned
+route planning of aircraft
+ATMs, especially
+checks, patrol services, service
+route determination services
+It may be provided.
+In this context, a very wide application
+fast and fast
+analysis with high accuracy
+is required. Node defined in the problem
+for the solution due to the increasing number of
+needed resource and to be spent
+known to cause increased time
 ## To sum up purpose the algorithms for the TSP is that the find best path ,smallest cost and boundary for the traveling salesman decision problems.
