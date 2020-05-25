@@ -28,4 +28,8 @@ known to cause increased time
 <b>
  Cost is distances of arrive cities to other cities.And end of the algorithms you will have a lot of costs.Then you will determine the smallest cost inside of others .And you will develop and refactoring others to try to emulation accoridng to has best cost. 
  </b>
+ <br>
+  <br>
+   <br>
+   
 ## To sum up purpose the algorithms for the TSP is that the find best path ,smallest cost and boundary for the traveling salesman decision problems.
