@@ -2,7 +2,7 @@
 ### Summarize the N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other.
 ### This code provide that thanks to develop algoritm's methods, find fitness solving , max fitness and suitable placing on chess board that no two queens attack each other
 
-## Instance one of the input 
+## Instance one of the input (Solving 8 X 8 Queen problems) 
 <br>
 <b>V</b> represented the Queen <br>
 <b>X</b> represented the empty field on chees board
