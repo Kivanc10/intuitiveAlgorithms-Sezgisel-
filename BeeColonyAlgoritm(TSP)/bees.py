@@ -82,7 +82,7 @@ for i in range(numBees): # başlangıçta arı sayısı kadar rota oluşturuldu.
     bees.append((path,calculateCost(path)))
 bees.sort(key=lambda x:x[1]) # en az maliyete göre sıraladık.(sort of the most least cost)
 
-def removeBees(bees,a,b,c,d): # rota ortadan kaldırma (eleme) fonksiyonu deneme limitine bağlıdır.(elimination of path and bees)(that is necessary for algorithm,forget path)
+def removeBees(bees): # rota ortadan kaldırma (eleme) fonksiyonu deneme limitine bağlıdır.(elimination of path and bees)(that is necessary for algorithm,forget path)
     bees=bees[0][:]
     index1=randint(0,n-1)
     index2=randint(0,n-1)
@@ -112,7 +112,7 @@ while(iteration!=0): # beginnig of iteration
     count+=1
     if (count>limitsOfTry): # eğer sayaç deneme limitinden fazla ise arılar ortadan kaldırılır.(removeBees fonskiyonu ile)(if counter bigger than limits of array,then apply last operation that removeBees)
         for k in range(n):
-            bees[k]=removeBees(bees,randint(0,n-1),randint(0,n-1),randint(0,n-1),randint(0,n-1)) # iyileştirilemeyen çözüm kümeleri(rotalar) kaldırıldı.
+            bees[k]=removeBees(bees[k]) # iyileştirilemeyen çözüm kümeleri(rotalar) kaldırıldı.
     bees.sort(key=lambda x:x[1])  # en az maliyete göre sırala.
     iteration-=1
 b=time.time()
