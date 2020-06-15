@@ -25,7 +25,7 @@ for the solution due to the increasing number of
 needed resource and to be spent
 known to cause increased time
 <br>
-<img src="https://i.ytimg.com/vi/efTyb82GEDw/maxresdefault.jpg" style="width=80%"/>
+<img src="https://i.ytimg.com/vi/efTyb82GEDw/maxresdefault.jpg" style="width=100%";height:"auto"/>
 ## what is the cost
 <b>
  Cost is distances of arrive cities to other cities.And end of the algorithms you will have a lot of costs.Then you will determine the smallest cost inside of others .And you will develop and refactoring others to try to emulation accoridng to has best cost. 
