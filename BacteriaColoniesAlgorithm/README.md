@@ -4,7 +4,7 @@ Bacteria Colonies Algorithm,inspired by bacteria behavior of feeding and nowdays
 </b>
 <br>
 <b>
-Bacteria Colonies Algorithm,contains three main titles inside ,These are :<br>
+Bacteria Colonies Algorithm,contains three main titles inside ,These are :<br><br>
 <li>Chemotatic Event</li>
 <br>
 <li>Reproductive Event</li>
