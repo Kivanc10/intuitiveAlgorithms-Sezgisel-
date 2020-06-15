@@ -14,7 +14,7 @@ Bacteria Colonies Algorithm,contains three main titles inside ,These are :<br><b
 </b>
 <br>
 <b>
-At the first,Bacteria Colonies Algorithm has some limitation that ; <br>
+At the first,Bacteria Colonies Algorithm has some limitation that ; <br><br>
 <li>Count of bacteria is to be constant</li>
 <br>
 <li>bacterias that qualities, must be transfer to next generation</li>
@@ -24,7 +24,7 @@ At the first,Bacteria Colonies Algorithm has some limitation that ; <br>
 </b>
 <br>
 <br>
-<h3>Chemotatic Event</h3>
+<h3>Chemotatic Event</h3><br>
 <b>
 Bacterias search feed with some speacial chemical matters and thus bacterias behave convergence or divergence according to type of matters.In other words this matter give a lead to bacterias.
 Contains 2 types of chematic event that positive and negative.
@@ -32,14 +32,14 @@ Contains 2 types of chematic event that positive and negative.
 <img src="https://i.hizliresim.com/ADz3zB.png" />
 <br>
 <br>
-<h3>Reproductive Event</h3>
+<h3>Reproductive Event</h3><br>
 <b>
 If in simulation bacterias that failed to find feeds at the time,must be remove on simulation,for hold constant ,add bacterias that has high values on population.
 I say that above,if count of population is S,remove S/2 bacterias in the population.Then append high values bacterias until rest of empty field.
 </b>
 <br>
 <br>
-<h3>Elimination Event</h3>
+<h3>Elimination Event</h3><br>
 <b>
 Bacterias lives environment maybe too cool or hot or contain other factors.These factors affect bacterias behavior significantly.Whole factors cause slow or fast changed.This changed cause die or move up different places.Elimination imitiates whole factors that affect to bacterias live
 </b>
