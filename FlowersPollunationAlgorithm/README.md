@@ -2,6 +2,6 @@
 ## Flowers Pollunation Algorithm
 <p>
   <b>
-This algorithm solving some problems that Queen problems,Transition salesman problem , how imitates flowers and flowers behavior.Actually,it imitates that flowers pollunation.Purpose of algoritm develop itself each iteration,find best solution with the least costs.
+Flower pollination algorithms interesting process in the natural world.Its properties can be used to design new optimization algorithms.This algorithm namely,flower pollination algorithm inspired by the pollination process of flowers.Sometimes,flowers pollination algorithms result show better than according to Genetic algorithm and particle swarm optimization in similation.Thanks to contain interesting and simply framework and fast solving,people will use this algorithm on any problems.
   </b>
   </p>
